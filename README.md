@@ -100,4 +100,3 @@ Contributions are welcome! Feel free to open an issue or create a pull request.
 
 This project is licensed under the MIT License.
 
---- 
