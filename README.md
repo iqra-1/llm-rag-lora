@@ -1,4 +1,4 @@
-# FinalRAG + FineTuned LLM
+# Fine-Tuning a Retrieval-Augmented Generation Model for Legal Text with LoRA and Quantization
 
 This repository contains an implementation of a fine-tuned Large Language Model (LLM) integrated with a Retrieval-Augmented Generation (RAG) pipeline. It uses quantized models for efficient training and inference, along with a dataset containing legal text for text completion and information retrieval tasks.
 
